@@ -1,0 +1,18 @@
+.tv{
+    display: flex;
+    background-color: #F7EAF4;
+    margin: 50px;
+    padding: 20px;
+}
+
+.serie img{
+    border: solid 5px #940BB41C;
+    width: 600px;
+    height: 350px;
+}
+
+.filmes img{
+    border: solid 5px #940BB41C;
+    width: 400px;
+    height: 550px;
+}
